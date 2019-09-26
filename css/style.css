@@ -1,0 +1,529 @@
+
+.no-padding{
+	padding: 0px;
+}
+
+
+
+
+
+
+/*--seaction-one--*/
+
+.banner{
+
+    background-color:#0a2345;
+	padding: 160px 0px 80px;
+	overflow: hidden;
+
+}
+
+.collapse.navbar-collapse ul li a{
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+
+}
+
+.collapse.navbar-collapse ul li a:hover{
+	color: #ed145b;
+}
+
+
+
+/*global b-tag*/
+
+ b{
+	color: #2a5ca2;
+	font-size: 45px;
+
+}
+
+
+.banner-one h2{
+color: #fff;
+font-family: 'Lato', sans-serif;
+text-align: center;
+font-size: 40px;
+margin: 20px 0px;
+
+}
+
+.banner-one p{
+    color:#c7c7c7;
+font-family: 'Lato', sans-serif;
+text-align: center;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+}
+
+
+
+.btn-cstm{
+	display: block;
+	margin: 70px auto;
+	background-color:#0a2345; ;
+	border: 2px solid #fff;
+	padding: 8px 25px;
+	border-radius: 20px;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+}
+
+
+
+
+
+
+/*--seaction-two--*/
+
+
+.hero{
+
+	background: url(../img/img1.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 5% 0% 30%;
+	overflow: hidden;
+     display: block;
+     background-color:#0a2345;
+
+}
+
+
+
+
+
+
+/*--seaction-three--*/
+
+.hard{
+	background-color:#0a2345;
+	padding: 120px 0px 100px;
+
+}
+.hard-one img{
+	display: block;
+	width: 110%;
+	margin-left:-15%;
+	top: 50px;
+	transition: 0.9s ease;
+
+
+}
+
+
+.hard-one img:hover{
+	transform: scale(1.1);
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.hard-two h2{
+	color: #fff;
+	font-size: 35px;
+	margin: 60px auto 50px;
+
+}
+.hard-two p{
+	color: #55667e;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+/*--seaction-four--*/
+
+.main{
+	background-color:#0a2345;
+	text-align: center;
+}
+
+.main-one h2{
+	text-align: center;
+	color:#fff;
+	font-size: 35px;
+	padding: 20px 0px;
+	
+}
+
+
+
+/*----*/
+
+.main-part{
+	text-align: center;
+	
+
+}
+
+.one-one img{
+	display: block;
+	margin: 15px auto;
+	
+	
+
+}
+.one-one h5{
+	color: #fff;
+	font-size: 16px;
+
+	font-family: 'Be Vietnam', sans-serif;
+	
+
+}
+.one-one p{
+	margin: 15px 0px 50px;
+	color: #fff;
+	font-size: 11px;
+	text-align: center;
+}
+
+
+.main-part-two img{
+	transition: 0.7s ease;
+
+}
+
+.main-part-two img:hover{
+	transform: scale(1.5);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*--seaction-five--*/
+
+.mobile{
+	background-color: #06162c;
+	padding: 50px 0px;
+
+}
+
+
+.mobile-one h3{
+	padding: 20px 0px;
+	color: #fff;
+	font-size: 30px;
+	font-family: 'Be Vietnam', sans-serif;
+
+}
+.mobile-one p{
+	color: #66778e;
+	text-align: justify;
+
+}
+.mobile-two img{
+	display: block;
+	width: 100%;
+
+
+}
+
+
+
+/*--seaction-six--*/
+
+.color{
+	background-color: #071326;
+	padding: 100px 0px 120px;
+
+}
+.color-one p{
+	color: #66778e;
+	text-align: center;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+/*--seaction-seven--*/
+
+.oppo{
+	background-color: #02060e;
+	padding: 100px 0px 80px;
+
+}
+.oppo-one h2{
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Be Vietnam', sans-serif;
+
+}
+.oppo-one p{
+      color: #66778e;
+      font-size: 15px;
+      text-align: center;
+      padding: 30px 0px 0px;
+
+}
+.oppo-one img{
+	padding: 0px;
+	width: 100%;
+	display: block;
+	margin: -80px 0px 0px;
+	transition: 0.7s ease;   
+}
+
+.oppo-one img:hover{
+	transform: scale(1.2);
+
+}
+
+
+
+.oppo-button{
+	display: block;
+	color: #fff;
+	margin: 0px auto;
+	background-color:#0a2345;
+	border: 2px solid #fff;
+	padding: 10px 35px;
+	border-radius: 20px;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+
+}
+.oppo-button:hover{
+	background-color: #285a9e;
+
+}
+
+
+
+
+
+/*footer-part*/
+
+
+footer{
+	background-color: #02060e;
+	padding: 10px 0px 50px;
+
+}
+
+
+.underline{
+	display: block;
+	border-bottom: 3px solid #0a2345;
+	width: 100%;
+
+
+}
+
+.last-one ul{
+
+	list-style: none;
+
+}
+.last-one ul li{
+	display: inline-block;
+	margin: 20px 10px;
+	transition: 0.7s ease;
+
+}
+.last-one ul li:hover{
+	background-color: #fff;
+	border-radius: 12px;
+
+}
+.last-two p{
+	color: #123461;
+	margin: 20px 0px;
+	font-family: 'Be Vietnam', sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 500px){
+
+	 b{
+	font-size: 35px;
+	text-align: center;
+
+}
+
+
+
+
+.banner-one h2{
+
+font-size: 20px;
+margin: 15px 0px;
+text-align: center;
+
+}
+
+.btn-cstm{
+	padding: 8px 10px;
+}
+
+
+
+/*--seaction-two--*/
+
+
+.hero{
+	padding: 0% 0% 45%;
+	
+}
+/*--seaction-three--*/
+
+.hard{
+	background-color:#0a2345;
+	padding: 80px 0px 80px;
+
+}
+.hard-one img{
+	display: block;
+	width: 110%;
+	margin-left:-15%;
+	top: 50px;
+
+
+}
+
+.hard-two h2{
+	text-align: center;
+
+	font-size: 23px;
+	margin: 50px auto 40px;
+
+}
+.hard-two p{
+	text-align: center;
+	
+	font-size: 16px;
+
+}
+
+
+/*--seaction-four--*/
+
+
+.main-one h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 0px 0px;
+	font-family: 'Be Vietnam', sans-serif;
+	
+}
+
+
+/*--seaction-five--*/
+
+.mobile{
+	background-color: #06162c;
+	padding: 40px 0px;
+
+}
+
+
+.mobile-one h3{
+
+	padding: 20px 0px;
+	font-size: 25px;
+	
+
+}
+
+
+
+
+/*--seaction-six--*/
+
+.color{
+	padding: 100px 0px 100px;
+
+}
+.color-one p{
+	text-align: center;
+	font-size: 18px;
+
+}
+
+
+
+
+
+
+/*--seaction-seven--*/
+
+.oppo{
+	
+	padding: 50px 0px 80px;
+
+}
+.oppo-one h2{
+	
+	font-size: 25px;
+	text-align: center;
+
+
+}
+.oppo-one p{
+      
+      font-size: 13px;
+      text-align: center;
+      padding: 30px 0px 0px;
+
+}
+
+
+
+
+
+
+/*footer-part*/
+
+
+footer{
+	
+	padding: 5px 0px 10px;
+
+}
+
+
+
+
+
+}
+
